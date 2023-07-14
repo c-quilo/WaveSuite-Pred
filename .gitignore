@@ -1,2 +1,12 @@
 ./test_data.npy
 ./y_pred.npy
+./GNN/saved_paths.csv
+./GNN/rank_models.py
+./GNN/wavesuite_training.ipynb
+./GNN/train_top_AE.py
+./GNN/graph_functions.py
+./GNN/plot_results_3D_vtu.py
+./GNN/AE_top_models.py
+./preprocessing/wave_complete_edge_list.pt
+./preprocessing/wave_complete_edge_list.npy
+./preprocessing/adj_matrix_v2.ipynb

@@ -1,0 +1,2 @@
+Model name,variants_name,final_validation_loss
+classic_AE_variant1_256latDim,latDim256,5.175424533376827e-09
